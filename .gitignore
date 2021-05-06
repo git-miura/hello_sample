@@ -38,3 +38,8 @@
 /yarn-error.log
 yarn-debug.log*
 .yarn-integrity
+
+#Githubに不要なファイルをプッシュしないようにする
+.DS_Store
+/vendor/bundle
+
